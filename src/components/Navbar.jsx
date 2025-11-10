@@ -8,7 +8,7 @@ export default function Navbar() {
           <span className="inline-flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-sky-500 to-indigo-600 text-white">
             <Rocket className="h-5 w-5" />
           </span>
-          <span className="tracking-tight">Aero Portfolio</span>
+          <span className="tracking-tight">Japkaran Singh</span>
         </a>
         <div className="hidden md:flex items-center gap-6 text-sm text-neutral-700 dark:text-neutral-300">
           <a href="#projects" className="hover:text-neutral-900 dark:hover:text-white transition">Projects</a>

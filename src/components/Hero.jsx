@@ -5,7 +5,6 @@ export default function Hero() {
   return (
     <section id="home" className="relative min-h-[80vh] flex items-center">
       <div className="absolute inset-0">
-        {/* Replace with your own Spline scene URL if desired */}
         <Spline
           scene="https://prod.spline.design/rh6G9mA1d86rNQqs/scene.splinecode"
           style={{ width: "100%", height: "100%" }}
@@ -16,11 +15,11 @@ export default function Hero() {
         <div className="backdrop-blur-sm bg-white/60 dark:bg-neutral-900/60 rounded-2xl p-8 shadow-lg">
           <p className="text-sm uppercase tracking-widest text-sky-600 font-medium">Aerospace Engineer</p>
           <h1 className="mt-3 text-4xl md:text-5xl font-extrabold leading-tight text-neutral-900 dark:text-white">
-            Designing the future of flight and space exploration
+            Hi, I’m Japkaran Singh
           </h1>
           <p className="mt-4 text-neutral-700 dark:text-neutral-300">
-            I specialize in aerodynamics, propulsion, and systems integration — building reliable
-            aircraft and spacecraft solutions from concept to flight.
+            Designing the future of flight and space exploration. I specialize in aerodynamics, propulsion,
+            and systems integration — building reliable aircraft and spacecraft solutions from concept to flight.
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <a href="#projects" className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-r from-sky-500 to-indigo-600 text-white font-medium shadow hover:opacity-90 transition">

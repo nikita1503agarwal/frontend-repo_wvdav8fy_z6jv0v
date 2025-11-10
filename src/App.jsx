@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer className="py-10 text-center text-sm text-neutral-600 dark:text-neutral-400">
       <p>
-        © {new Date().getFullYear()} Aerospace Portfolio. Built with passion for flight.
+        © {new Date().getFullYear()} Japkaran Singh. Built with passion for flight.
       </p>
     </footer>
   );
